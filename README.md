@@ -11,4 +11,4 @@ https://leetcode.com/discuss/study-guide/1688903/Solved-all-two-pointers-problem
 
 https://leetcode.com/discuss/interview-question/3685049/25-variations-of-two-sum-question
 
-https://colab.research.google.com/drive/1xhyQCfGsqSgFwWyBuvcf9zSbHXSKBdWT?usp=sharing
+
