@@ -12,3 +12,4 @@ https://leetcode.com/discuss/study-guide/1688903/Solved-all-two-pointers-problem
 https://leetcode.com/discuss/interview-question/3685049/25-variations-of-two-sum-question
 
 
+https://www.wemakescholars.com/blog/top-20-foreign-internships-for-indian-students
